@@ -1,4 +1,4 @@
-# Thème conçu par Kolaxx
+# Thème conçu par Codeur Pro
 
 ⚠️ Ce thème peut uniquement être installé sur un **Panel Pterodactyl** !
 
